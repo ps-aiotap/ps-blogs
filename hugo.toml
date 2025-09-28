@@ -1,0 +1,9 @@
+baseURL = "https://ps-aiotap.github.io/ps-blogs/"
+languageCode = "en-us"
+title = "Pushpendu Sharma — Blog"
+theme = "ananke"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
